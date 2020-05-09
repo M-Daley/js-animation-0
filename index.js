@@ -1,7 +1,7 @@
 /* Initialize & Configure Variables */
 
 // Iniatalize Variables
-const canvas = document.getElementById("fire");
+const canvas = document.getElementById("canvas");
 const ctx = canvas.getContext("2d");
 const rightButton = document.getElementById("right");
 const leftButton = document.getElementById("left");
