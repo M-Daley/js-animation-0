@@ -32,7 +32,7 @@ var spriteHeight = sheetHeight / rows;
 canvas.height = ctxHeight;
 canvas.width = ctxWidth;
 
-character.src = "./character.png";
+character.src = "media/character.png";
 
 
 /* Helper Functions */
